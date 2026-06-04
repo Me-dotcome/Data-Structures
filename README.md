@@ -1,5 +1,5 @@
 Part 1
-                                  Algorithm Design and Pseudocode
+                                  Algorithm Design and Pseudocode.
   A courier company needs to deliver packages to multiple destinations efficiently while reducing travel time 
   and fuel costs. The challenge is to determine the optimal route for delivery drivers based on factors such 
   as distance, traffic conditions, and delivery time windows.
@@ -9,7 +9,7 @@ Part 1
     Convert the pseudocode into a working program using a programming language, for which I used Python.
 
 Part 2
-                             Data Structure Selection and Justification
+                             Data Structure Selection and Justification.
   A university course registration system needs to manage student enrolments efficiently. Students 
   should be able to register for courses, withdraw from courses, and check available slots. The system must 
   quickly retrieve and update enrolment records.
